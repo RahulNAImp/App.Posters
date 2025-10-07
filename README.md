@@ -1,4 +1,4 @@
-# jiju ka project
+# Project overview 
 
 Minimal Node + Express backend for the Posters project.
 
